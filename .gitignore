@@ -36,3 +36,7 @@ next-env.d.ts
 
 # env
 .env
+
+# windows system files
+desktop.ini
+Thumbs.db
